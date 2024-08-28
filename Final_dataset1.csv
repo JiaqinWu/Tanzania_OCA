@@ -1,0 +1,901 @@
+Domain,Objective,Sub Section,Sub Section Objective,Program,Score,Statement
+Governance,"To assess the organization__ motivation and stability by reviewing its guiding principles, structure and oversight.",Vision/Mission,"To review the organization__ vision and/or mission statements, learn what drives the organization, how the statements reflect what it does and how they are communicated and understood by staff.",RSSH,2,"The vision and/or mission is
+_	A moderately clear or specific understanding of what the organization aspires to become or achieve
+_	Not widely held
+_	Rarely used to direct actions or to set priorities"
+Governance,"To assess the organization__ motivation and stability by reviewing its guiding principles, structure and oversight.",Vision/Mission,"To review the organization__ vision and/or mission statements, learn what drives the organization, how the statements reflect what it does and how they are communicated and understood by staff.",NTLP,4,"The vision and/or mission is
+_	A clear, specific and forceful understanding of what the organization aspires to become or to achieve
+_	Well-communicated and broadly held within the organization
+_	Consistently used to direct actions and to set priorities"
+Governance,"To assess the organization__ motivation and stability by reviewing its guiding principles, structure and oversight.",Vision/Mission,"To review the organization__ vision and/or mission statements, learn what drives the organization, how the statements reflect what it does and how they are communicated and understood by staff.",NMCP,4,"The vision and/or mission is
+_	A clear, specific and forceful understanding of what the organization aspires to become or to achieve
+_	Well-communicated and broadly held within the organization
+_	Consistently used to direct actions and to set priorities"
+Governance,"To assess the organization__ motivation and stability by reviewing its guiding principles, structure and oversight.",Vision/Mission,"To review the organization__ vision and/or mission statements, learn what drives the organization, how the statements reflect what it does and how they are communicated and understood by staff.",NACP,3,"The vision and/or mission is
+_	A clear, specific statement of what the organization aspires to become or achieve
+_	Well-known to most but not all staff
+_	Sometimes used to direct actions and to set priorities"
+Governance,"To assess the organization__ motivation and stability by reviewing its guiding principles, structure and oversight.",Organizational Structure,"To determine if the organization__ structure__ost often depicted in an organogram but also perhaps in a narrative__s in line with its mission, goals and programs and if systems exist to ensure strong coordination among departments or functions.",RSSH,2,"The organization has
+_	A basic structure, but it is incomplete and/or undocumented
+_	A structure that is not aligned with its mission/goals and programs
+_	Unclear definitions of department functions
+_	Somewhat clear lines of responsibility and communication among departments"
+Governance,"To assess the organization__ motivation and stability by reviewing its guiding principles, structure and oversight.",Organizational Structure,"To determine if the organization__ structure__ost often depicted in an organogram but also perhaps in a narrative__s in line with its mission, goals and programs and if systems exist to ensure strong coordination among departments or functions.",NTLP,3,"The organization has
+_	A well-designed structure (e.g., organogram) relevant to its mission/goals and programs
+_	Identified the functions and responsibilities of departments
+_	Clearly defined and appropriate lines of responsibility and communication among departments"
+Governance,"To assess the organization__ motivation and stability by reviewing its guiding principles, structure and oversight.",Organizational Structure,"To determine if the organization__ structure__ost often depicted in an organogram but also perhaps in a narrative__s in line with its mission, goals and programs and if systems exist to ensure strong coordination among departments or functions.",NMCP,4,"The organization has
+_	A well-defined structure relevant to its mission/goals and programs
+_	Clearly defined and appropriate functions and responsibilities of departments
+_	Clear, appropriate lines of communication and coordination among departments
+_	A narrative description of the structure if appropriate"
+Governance,"To assess the organization__ motivation and stability by reviewing its guiding principles, structure and oversight.",Organizational Structure,"To determine if the organization__ structure__ost often depicted in an organogram but also perhaps in a narrative__s in line with its mission, goals and programs and if systems exist to ensure strong coordination among departments or functions.",NACP,3,"The organization has
+_	A well-designed structure (e.g., organogram) relevant to its mission/goals and programs
+_	Identified the functions and responsibilities of departments
+_	Clearly defined and appropriate lines of responsibility and communication among departments"
+Governance,"To assess the organization__ motivation and stability by reviewing its guiding principles, structure and oversight.",Legal Status,To assess the organization__ legal standing__nd therefore sustainability__y checking legal registration and compliance with local tax and labor laws,RSSH,4,"The organization is
+_	Legally registered and aware of its tax status
+_	Fully complies with tax obligations and labor laws
+_	Fully complies with statutory audit and reporting requirements"
+Governance,"To assess the organization__ motivation and stability by reviewing its guiding principles, structure and oversight.",Legal Status,To assess the organization__ legal standing__nd therefore sustainability__y checking legal registration and compliance with local tax and labor laws,NTLP,4,"The organization is
+_	Legally registered and aware of its tax status
+_	Fully complies with tax obligations and labor laws
+_	Fully complies with statutory audit and reporting requirements"
+Governance,"To assess the organization__ motivation and stability by reviewing its guiding principles, structure and oversight.",Legal Status,To assess the organization__ legal standing__nd therefore sustainability__y checking legal registration and compliance with local tax and labor laws,NMCP,4,"The organization is
+_	Legally registered and aware of its tax status
+_	Fully complies with tax obligations and labor laws
+_	Fully complies with statutory audit and reporting requirements"
+Governance,"To assess the organization__ motivation and stability by reviewing its guiding principles, structure and oversight.",Legal Status,To assess the organization__ legal standing__nd therefore sustainability__y checking legal registration and compliance with local tax and labor laws,NACP,4,"The organization is
+_	Legally registered and aware of its tax status
+_	Fully complies with tax obligations and labor laws
+_	Fully complies with statutory audit and reporting requirements"
+Governance,"To assess the organization__ motivation and stability by reviewing its guiding principles, structure and oversight.",Succession Planning,"To assess the organization__ ability to continue smooth operations and to manage programs in the event of an absence of, or shift in, leadership.",RSSH,3,"The organization
+_	Has limited dependence on CEO/ED; s/he does not have sole control of, for example, finances and planning
+_	Would continue in a similar way without the CEO/ED, but fundraising and/or program quality would suffer significantly
+_	Has a documented plan for how it would continue should the CEO/ED leave, but no member of management could take on the CEO/ED role"
+Governance,"To assess the organization__ motivation and stability by reviewing its guiding principles, structure and oversight.",Succession Planning,"To assess the organization__ ability to continue smooth operations and to manage programs in the event of an absence of, or shift in, leadership.",NTLP,3,"The organization
+_	Has limited dependence on CEO/ED; s/he does not have sole control of, for example, finances and planning
+_	Would continue in a similar way without the CEO/ED, but fundraising and/or program quality would suffer significantly
+_	Has a documented plan for how it would continue should the CEO/ED leave, but no member of management could take on the CEO/ED role"
+Governance,"To assess the organization__ motivation and stability by reviewing its guiding principles, structure and oversight.",Succession Planning,"To assess the organization__ ability to continue smooth operations and to manage programs in the event of an absence of, or shift in, leadership.",NMCP,4,"The organization
+_	Is reliant but not dependent on the CEO/ED
+_	Has a clear, documented succession plan
+_	Has the potential for a smooth transition to a new leader; fundraising and program quality would not be major problems
+_	Would handle transition by having a senior management team fill in or one or more members of the management team would take on the CEO/ED role"
+Governance,"To assess the organization__ motivation and stability by reviewing its guiding principles, structure and oversight.",Succession Planning,"To assess the organization__ ability to continue smooth operations and to manage programs in the event of an absence of, or shift in, leadership.",NACP,3,"The organization
+_	Has limited dependence on CEO/ED; s/he does not have sole control of, for example, finances and planning
+_	Would continue in a similar way without the CEO/ED, but fundraising and/or program quality would suffer significantly
+_	Has a documented plan for how it would continue should the CEO/ED leave, but no member of management could take on the CEO/ED role"
+Administration,"To assess the organization__ capacity to develop and apply policies and procedures, the existence and quality of its administrative systems and its staff knowledge of the systems.						","Operational Policies, Procedures and Systems",To assess the availability of and adherence to operational policies.,RSSH,4,"The organization has
+_	Complete and appropriate operational policies and procedures
+_	Policies and procedures that are known and understood by staff
+_	Policies and procedures that are consistently adhered to, reviewed and updated"
+Administration,"To assess the organization__ capacity to develop and apply policies and procedures, the existence and quality of its administrative systems and its staff knowledge of the systems.						","Operational Policies, Procedures and Systems",To assess the availability of and adherence to operational policies.,NTLP,4,"The organization has
+_	Complete and appropriate operational policies and procedures
+_	Policies and procedures that are known and understood by staff
+_	Policies and procedures that are consistently adhered to, reviewed and updated"
+Administration,"To assess the organization__ capacity to develop and apply policies and procedures, the existence and quality of its administrative systems and its staff knowledge of the systems.						","Operational Policies, Procedures and Systems",To assess the availability of and adherence to operational policies.,NMCP,4,"The organization has
+_	Complete and appropriate operational policies and procedures
+_	Policies and procedures that are known and understood by staff
+_	Policies and procedures that are consistently adhered to, reviewed and updated"
+Administration,"To assess the organization__ capacity to develop and apply policies and procedures, the existence and quality of its administrative systems and its staff knowledge of the systems.						","Operational Policies, Procedures and Systems",To assess the availability of and adherence to operational policies.,NACP,4,"The organization has
+_	Complete and appropriate operational policies and procedures
+_	Policies and procedures that are known and understood by staff
+_	Policies and procedures that are consistently adhered to, reviewed and updated"
+Administration,"To assess the organization__ capacity to develop and apply policies and procedures, the existence and quality of its administrative systems and its staff knowledge of the systems.						",Travel Policies and Procedures,"To assess the availability of and adherence to travel policies and procedures, especially compliance with donor rules and regulations.",RSSH,3,"The organization has
+_	Documented most or all travel policies and procedures, and they comply with donor requirements
+_	Policies and procedures that are generally known and understood by staff but not consistently adhered to"
+Administration,"To assess the organization__ capacity to develop and apply policies and procedures, the existence and quality of its administrative systems and its staff knowledge of the systems.						",Travel Policies and Procedures,"To assess the availability of and adherence to travel policies and procedures, especially compliance with donor rules and regulations.",NTLP,4,"The organization has
+_	Complete and appropriate travel policies and procedures that comply with donor requirements
+_	Policies and procedures that are known and understood by staff
+_	Policies and procedures that are consistently adhered to, reviewed and updated"
+Administration,"To assess the organization__ capacity to develop and apply policies and procedures, the existence and quality of its administrative systems and its staff knowledge of the systems.						",Travel Policies and Procedures,"To assess the availability of and adherence to travel policies and procedures, especially compliance with donor rules and regulations.",NMCP,4,"The organization has
+_	Complete and appropriate travel policies and procedures that comply with donor requirements
+_	Policies and procedures that are known and understood by staff
+_	Policies and procedures that are consistently adhered to, reviewed and updated"
+Administration,"To assess the organization__ capacity to develop and apply policies and procedures, the existence and quality of its administrative systems and its staff knowledge of the systems.						",Travel Policies and Procedures,"To assess the availability of and adherence to travel policies and procedures, especially compliance with donor rules and regulations.",NACP,4,"The organization has
+_	Complete and appropriate travel policies and procedures that comply with donor requirements
+_	Policies and procedures that are known and understood by staff
+_	Policies and procedures that are consistently adhered to, reviewed and updated"
+Administration,"To assess the organization__ capacity to develop and apply policies and procedures, the existence and quality of its administrative systems and its staff knowledge of the systems.						",Procurement,To assess the availability of and adherence to procurement policies and procedures,RSSH,4,"The organization has
+_	Complete and appropriate procurement policies and procedures that incorporate donor-specific policies as required
+_	Policies and procedures that are known and understood by staff
+_	Policies and procedures that are consistently adhered to, reviewed and updated
+_	A documented procurement plan that is annually revised/updated"
+Administration,"To assess the organization__ capacity to develop and apply policies and procedures, the existence and quality of its administrative systems and its staff knowledge of the systems.						",Procurement,To assess the availability of and adherence to procurement policies and procedures,NTLP,4,"The organization has
+_	Complete and appropriate procurement policies and procedures that incorporate donor-specific policies as required
+_	Policies and procedures that are known and understood by staff
+_	Policies and procedures that are consistently adhered to, reviewed and updated
+_	A documented procurement plan that is annually revised/updated"
+Administration,"To assess the organization__ capacity to develop and apply policies and procedures, the existence and quality of its administrative systems and its staff knowledge of the systems.						",Procurement,To assess the availability of and adherence to procurement policies and procedures,NMCP,4,"The organization has
+_	Complete and appropriate procurement policies and procedures that incorporate donor-specific policies as required
+_	Policies and procedures that are known and understood by staff
+_	Policies and procedures that are consistently adhered to, reviewed and updated
+_	A documented procurement plan that is annually revised/updated"
+Administration,"To assess the organization__ capacity to develop and apply policies and procedures, the existence and quality of its administrative systems and its staff knowledge of the systems.						",Procurement,To assess the availability of and adherence to procurement policies and procedures,NACP,4,"The organization has
+_	Complete and appropriate procurement policies and procedures that incorporate donor-specific policies as required
+_	Policies and procedures that are known and understood by staff
+_	Policies and procedures that are consistently adhered to, reviewed and updated
+_	A documented procurement plan that is annually revised/updated"
+Administration,"To assess the organization__ capacity to develop and apply policies and procedures, the existence and quality of its administrative systems and its staff knowledge of the systems.						",Fixed Asset Control,To assess the availability of and adherence to policies and systems for managing fixed assets,RSSH,4,"The organization has
+_	Complete and appropriate fixed-asset policies and procedures that incorporate donor policies as required
+_	Policies and procedures that are known and understood by staff
+_	Policies and procedures that are consistently adhered to, reviewed and updated
+_	A fixed-asset register that is regularly updated and confirmed through a physical inventory at least every two years"
+Administration,"To assess the organization__ capacity to develop and apply policies and procedures, the existence and quality of its administrative systems and its staff knowledge of the systems.						",Fixed Asset Control,To assess the availability of and adherence to policies and systems for managing fixed assets,NTLP,4,"The organization has
+_	Complete and appropriate fixed-asset policies and procedures that incorporate donor policies as required
+_	Policies and procedures that are known and understood by staff
+_	Policies and procedures that are consistently adhered to, reviewed and updated
+_	A fixed-asset register that is regularly updated and confirmed through a physical inventory at least every two years"
+Administration,"To assess the organization__ capacity to develop and apply policies and procedures, the existence and quality of its administrative systems and its staff knowledge of the systems.						",Fixed Asset Control,To assess the availability of and adherence to policies and systems for managing fixed assets,NMCP,4,"The organization has
+_	Complete and appropriate fixed-asset policies and procedures that incorporate donor policies as required
+_	Policies and procedures that are known and understood by staff
+_	Policies and procedures that are consistently adhered to, reviewed and updated
+_	A fixed-asset register that is regularly updated and confirmed through a physical inventory at least every two years"
+Administration,"To assess the organization__ capacity to develop and apply policies and procedures, the existence and quality of its administrative systems and its staff knowledge of the systems.						",Fixed Asset Control,To assess the availability of and adherence to policies and systems for managing fixed assets,NACP,4,"The organization has
+_	Complete and appropriate fixed-asset policies and procedures that incorporate donor policies as required
+_	Policies and procedures that are known and understood by staff
+_	Policies and procedures that are consistently adhered to, reviewed and updated
+_	A fixed-asset register that is regularly updated and confirmed through a physical inventory at least every two years"
+Administration,"To assess the organization__ capacity to develop and apply policies and procedures, the existence and quality of its administrative systems and its staff knowledge of the systems.						",Information Systems,To assess the functionality of the organization__ information systems and its documentation of information system policies and procedures.,RSSH,3,"The organization has
+_	Documented most or all information system policies and procedures
+_	An information system that adequately supports operations and programs at  a good level of functionality without major inputs
+_	A staff member (or outside provider) designated to manage the information system"
+Administration,"To assess the organization__ capacity to develop and apply policies and procedures, the existence and quality of its administrative systems and its staff knowledge of the systems.						",Information Systems,To assess the functionality of the organization__ information systems and its documentation of information system policies and procedures.,NTLP,3,"The organization has
+_	Documented most or all information system policies and procedures
+_	An information system that adequately supports operations and programs at  a good level of functionality without major inputs
+_	A staff member (or outside provider) designated to manage the information system"
+Administration,"To assess the organization__ capacity to develop and apply policies and procedures, the existence and quality of its administrative systems and its staff knowledge of the systems.						",Information Systems,To assess the functionality of the organization__ information systems and its documentation of information system policies and procedures.,NMCP,4,"The organization has
+_	Complete and appropriate information system policies and procedures
+_	An information system that effectively and efficiently supports operations and programs at a high level of functionality and maintenance
+_	A staff member (or outside provider) designated to manage the information system"
+Administration,"To assess the organization__ capacity to develop and apply policies and procedures, the existence and quality of its administrative systems and its staff knowledge of the systems.						",Information Systems,To assess the functionality of the organization__ information systems and its documentation of information system policies and procedures.,NACP,3,"The organization has
+_	Documented most or all information system policies and procedures
+_	An information system that adequately supports operations and programs at  a good level of functionality without major inputs
+_	A staff member (or outside provider) designated to manage the information system"
+"Human Resources Management			","To assess the organization__ ability to maintain a satisfied and skilled workforce, to manage operations and staff time and to implement quality programs.						",Job Descriptions,"To review the systems for developing, disseminating, following and updating job descriptions (JDs) to ensure that staff roles and responsibilities are clearly defined and understood and that they are relevant to the needs of the organization.",RSSH,4,"The organization has
+_	JDs for each staff member that cover all sections
+_	Staff, volunteers and interns with copies of or access to their JDs
+_	JDs that are respected/adhered to, reviewed and updated"
+"Human Resources Management			","To assess the organization__ ability to maintain a satisfied and skilled workforce, to manage operations and staff time and to implement quality programs.						",Job Descriptions,"To review the systems for developing, disseminating, following and updating job descriptions (JDs) to ensure that staff roles and responsibilities are clearly defined and understood and that they are relevant to the needs of the organization.",NTLP,3,"The organization has
+_	Clear JDs for each staff member that include all sections
+_	Staff, volunteers and interns with copies or access to copies of their JDs
+_	JDs that are not respected/adhered to, reviewed or regularly updated"
+"Human Resources Management			","To assess the organization__ ability to maintain a satisfied and skilled workforce, to manage operations and staff time and to implement quality programs.						",Job Descriptions,"To review the systems for developing, disseminating, following and updating job descriptions (JDs) to ensure that staff roles and responsibilities are clearly defined and understood and that they are relevant to the needs of the organization.",NMCP,4,"The organization has
+_	JDs for each staff member that cover all sections
+_	Staff, volunteers and interns with copies of or access to their JDs
+_	JDs that are respected/adhered to, reviewed and updated"
+"Human Resources Management			","To assess the organization__ ability to maintain a satisfied and skilled workforce, to manage operations and staff time and to implement quality programs.						",Job Descriptions,"To review the systems for developing, disseminating, following and updating job descriptions (JDs) to ensure that staff roles and responsibilities are clearly defined and understood and that they are relevant to the needs of the organization.",NACP,3,"The organization has
+_	Clear JDs for each staff member that include all sections
+_	Staff, volunteers and interns with copies or access to copies of their JDs
+_	JDs that are not respected/adhered to, reviewed or regularly updated"
+"Human Resources Management			","To assess the organization__ ability to maintain a satisfied and skilled workforce, to manage operations and staff time and to implement quality programs.						",Recruitment,To assess the organization__ systems for recruiting staff and consultants including confirming and documenting professional and salary history.,RSSH,4,"The organization has
+_	Clear, transparent recruitment guidelines that are consistently applied and reviewed
+_	A process for verifying, updating and filing employment history
+_	Consistently oriented and regularly trained/updated HR staff in applying the guidelines
+_	Provided opportunities for career advancement"
+"Human Resources Management			","To assess the organization__ ability to maintain a satisfied and skilled workforce, to manage operations and staff time and to implement quality programs.						",Recruitment,To assess the organization__ systems for recruiting staff and consultants including confirming and documenting professional and salary history.,NTLP,4,"The organization has
+_	Clear, transparent recruitment guidelines that are consistently applied and reviewed
+_	A process for verifying, updating and filing employment history
+_	Consistently oriented and regularly trained/updated HR staff in applying the guidelines
+_	Provided opportunities for career advancement"
+"Human Resources Management			","To assess the organization__ ability to maintain a satisfied and skilled workforce, to manage operations and staff time and to implement quality programs.						",Recruitment,To assess the organization__ systems for recruiting staff and consultants including confirming and documenting professional and salary history.,NMCP,4,"The organization has
+_	Clear, transparent recruitment guidelines that are consistently applied and reviewed
+_	A process for verifying, updating and filing employment history
+_	Consistently oriented and regularly trained/updated HR staff in applying the guidelines
+_	Provided opportunities for career advancement"
+"Human Resources Management			","To assess the organization__ ability to maintain a satisfied and skilled workforce, to manage operations and staff time and to implement quality programs.						",Recruitment,To assess the organization__ systems for recruiting staff and consultants including confirming and documenting professional and salary history.,NACP,3,"The organization has
+_	Clear, transparent recruitment guidelines, but they are neither consistently applied nor regularly reviewed
+_	Has a process for verifying employment history but does not file or update the information
+_	Not consistently oriented or trained HR staff in applying the guidelines
+_	Not provided opportunities for career advancement"
+"Human Resources Management			","To assess the organization__ ability to maintain a satisfied and skilled workforce, to manage operations and staff time and to implement quality programs.						",Staffing Levels,"To assess the organization__ management of staffing__ositions available, positions filled, vacancies__or the program and for the organization as a whole and the means for ensuring staffing levels are and remain adequate.",RSSH,4,"The organization has
+_	A formal staffing plan
+_	Documented positions and vacancy data
+_	Qualified and skilled staff in all positions
+_	Active recruitment to fill gaps
+_	A system for rapidly filling new positions where staff turnover is high
+_	Minimal turnover and no attendance problems
+_	Conducted and documented exit interviews and used the information"
+"Human Resources Management			","To assess the organization__ ability to maintain a satisfied and skilled workforce, to manage operations and staff time and to implement quality programs.						",Staffing Levels,"To assess the organization__ management of staffing__ositions available, positions filled, vacancies__or the program and for the organization as a whole and the means for ensuring staffing levels are and remain adequate.",NTLP,4,"The organization has
+_	A formal staffing plan
+_	Documented positions and vacancy data
+_	Qualified and skilled staff in all positions
+_	Active recruitment to fill gaps
+_	A system for rapidly filling new positions where staff turnover is high
+_	Minimal turnover and no attendance problems
+_	Conducted and documented exit interviews and used the information"
+"Human Resources Management			","To assess the organization__ ability to maintain a satisfied and skilled workforce, to manage operations and staff time and to implement quality programs.						",Staffing Levels,"To assess the organization__ management of staffing__ositions available, positions filled, vacancies__or the program and for the organization as a whole and the means for ensuring staffing levels are and remain adequate.",NMCP,4,"The organization has
+_	A formal staffing plan
+_	Documented positions and vacancy data
+_	Qualified and skilled staff in all positions
+_	Active recruitment to fill gaps
+_	A system for rapidly filling new positions where staff turnover is high
+_	Minimal turnover and no attendance problems
+_	Conducted and documented exit interviews and used the information"
+"Human Resources Management			","To assess the organization__ ability to maintain a satisfied and skilled workforce, to manage operations and staff time and to implement quality programs.						",Staffing Levels,"To assess the organization__ management of staffing__ositions available, positions filled, vacancies__or the program and for the organization as a whole and the means for ensuring staffing levels are and remain adequate.",NACP,2,"The organization has
+_	A formal staffing plan
+_	Documented positions and vacancy data
+_	Some key positions filled with qualified and skilled staff
+_	No system to ensure that positions are filled quickly
+_	High turnover rate or staff attendance problems affecting program implementation
+_	Not conducted or documented exit interviews"
+"Human Resources Management			","To assess the organization__ ability to maintain a satisfied and skilled workforce, to manage operations and staff time and to implement quality programs.						",Personnel Policies,To ensure that personnel policies document and verify staff time and that best practices in managing personnel are adhered to.,RSSH,4,"The organization has
+_	Comprehensive and donor compliant personnel policies
+_	Policies that are adhered to and correspond to HR practices
+_	Disseminated policies to all staff and required and filed signature statements
+_	Regularly reviewed and updated policies, manuals and staff time records"
+"Human Resources Management			","To assess the organization__ ability to maintain a satisfied and skilled workforce, to manage operations and staff time and to implement quality programs.						",Personnel Policies,To ensure that personnel policies document and verify staff time and that best practices in managing personnel are adhered to.,NTLP,4,"The organization has
+_	Comprehensive and donor compliant personnel policies
+_	Policies that are adhered to and correspond to HR practices
+_	Disseminated policies to all staff and required and filed signature statements
+_	Regularly reviewed and updated policies, manuals and staff time records"
+"Human Resources Management			","To assess the organization__ ability to maintain a satisfied and skilled workforce, to manage operations and staff time and to implement quality programs.						",Personnel Policies,To ensure that personnel policies document and verify staff time and that best practices in managing personnel are adhered to.,NMCP,4,"The organization has
+_	Comprehensive and donor compliant personnel policies
+_	Policies that are adhered to and correspond to HR practices
+_	Disseminated policies to all staff and required and filed signature statements
+_	Regularly reviewed and updated policies, manuals and staff time records"
+"Human Resources Management			","To assess the organization__ ability to maintain a satisfied and skilled workforce, to manage operations and staff time and to implement quality programs.						",Personnel Policies,To ensure that personnel policies document and verify staff time and that best practices in managing personnel are adhered to.,NACP,3,"The organization has
+_	Comprehensive and donor compliant personnel policies including a drug- free workplace policy, discrimination policies (for US organizations), and timekeeping policy, at a minimum
+_	Polices that are adhered to and aligned with HR practices
+_	Not disseminated the policies to all staff or required signature statements
+_	Not updated personnel policies and manuals or time records"
+"Human Resources Management			","To assess the organization__ ability to maintain a satisfied and skilled workforce, to manage operations and staff time and to implement quality programs.						",Staff Salaries and Benefits,To review the organization__ systems for setting and managing salaries and benefits.,RSSH,3,"The organization has
+_	A clear rationale/structure for staff salaries such as pay grades and ranges and salary history
+_	A process for documenting salary history
+_	Consistently applied the rationale to all staff, but does not review or update salaries regularly
+_	Benefits that are clearly documented in a policy manual
+_	Benefits of which staff are aware, that are equitably applied and conform with national labor requirements"
+"Human Resources Management			","To assess the organization__ ability to maintain a satisfied and skilled workforce, to manage operations and staff time and to implement quality programs.						",Staff Salaries and Benefits,To review the organization__ systems for setting and managing salaries and benefits.,NTLP,4,"The organization has
+_	A clear rationale/structure for staff salaries such as pay grades and ranges and salary history
+_	A process for documenting salary history
+_	A rationale for salaries that is consistently applied to all staff, reviewed and updated annually
+_	Pay increases that follow the salary framework and/or policy
+_	Benefits that are clearly documented in a policy manual, equitably applied and conform to national labor laws
+_	Pay increases coordinated with performance reviews"
+"Human Resources Management			","To assess the organization__ ability to maintain a satisfied and skilled workforce, to manage operations and staff time and to implement quality programs.						",Staff Salaries and Benefits,To review the organization__ systems for setting and managing salaries and benefits.,NMCP,3,"The organization has
+_	A clear rationale/structure for staff salaries such as pay grades and ranges and salary history
+_	A process for documenting salary history
+_	Consistently applied the rationale to all staff, but does not review or update salaries regularly
+_	Benefits that are clearly documented in a policy manual
+_	Benefits of which staff are aware, that are equitably applied and conform with national labor requirements"
+"Human Resources Management			","To assess the organization__ ability to maintain a satisfied and skilled workforce, to manage operations and staff time and to implement quality programs.						",Staff Salaries and Benefits,To review the organization__ systems for setting and managing salaries and benefits.,NACP,2,"The organization has
+_	A clear rationale/structure for staff salaries, such as pay grades and ranges and salary history
+_	A process for documenting salary history
+_	Not consistently applied the rationale or reviewed or updated it
+_	Clearly documented benefits in a policy manual
+_	Benefits of which staff are aware, but they are neither equitably applied nor conform to national labor requirements"
+"Human Resources Management			","To assess the organization__ ability to maintain a satisfied and skilled workforce, to manage operations and staff time and to implement quality programs.						",Staff Performance Management,To review the organization__ systems for managing staff performance including performance appraisals.,RSSH,4,"The organization has
+_	A process for assessing staff performance that includes setting objectives, listing responsibilities/ tasks, assessing performance on past activities, supervision and professional  development
+_	Regularly conducted appraisals for all staff at least once a year
+_	Regularly reviews new staff performance after the probationary period
+_	Consistently filed, updated and made changes in staff work status, salary and benefits"
+"Human Resources Management			","To assess the organization__ ability to maintain a satisfied and skilled workforce, to manage operations and staff time and to implement quality programs.						",Staff Performance Management,To review the organization__ systems for managing staff performance including performance appraisals.,NTLP,4,"The organization has
+_	A process for assessing staff performance that includes setting objectives, listing responsibilities/ tasks, assessing performance on past activities, supervision and professional  development
+_	Regularly conducted appraisals for all staff at least once a year
+_	Regularly reviews new staff performance after the probationary period
+_	Consistently filed, updated and made changes in staff work status, salary and benefits"
+"Human Resources Management			","To assess the organization__ ability to maintain a satisfied and skilled workforce, to manage operations and staff time and to implement quality programs.						",Staff Performance Management,To review the organization__ systems for managing staff performance including performance appraisals.,NMCP,3,"The organization has
+_	A process for assessing staff performance that includes setting objectives, listing responsibilities/ tasks, assessing performance on past activities, supervision and professional development
+_	A performance review process for new staff that is not timely or consistently done
+_	A participatory process regularly used for performance appraisals
+_	Conducted appraisals for some, but not all, staff
+_	Consistently filed and updated changes in staff work status, salary and benefits"
+"Human Resources Management			","To assess the organization__ ability to maintain a satisfied and skilled workforce, to manage operations and staff time and to implement quality programs.						",Staff Performance Management,To review the organization__ systems for managing staff performance including performance appraisals.,NACP,3,"The organization has
+_	A process for assessing staff performance that includes setting objectives, listing responsibilities/ tasks, assessing performance on past activities, supervision and professional development
+_	A performance review process for new staff that is not timely or consistently done
+_	A participatory process regularly used for performance appraisals
+_	Conducted appraisals for some, but not all, staff
+_	Consistently filed and updated changes in staff work status, salary and benefits"
+"Human Resources Management			","To assess the organization__ ability to maintain a satisfied and skilled workforce, to manage operations and staff time and to implement quality programs.						",Volunteers and Interns,To review the organization__ systems for managing field and office volunteers and interns.,RSSH,2,"The organization has
+_	A basic volunteer/intern policy that includes guidance on selection, supervision and support
+_	Job descriptions
+_	Orientation and/or training for volunteers that is not consistent
+_	No performance standards or regular review of performance
+_	Inconsistent or irregular supervision
+_	High volunteer turnover that affects program implementation"
+"Human Resources Management			","To assess the organization__ ability to maintain a satisfied and skilled workforce, to manage operations and staff time and to implement quality programs.						",Volunteers and Interns,To review the organization__ systems for managing field and office volunteers and interns.,NMCP,1,"The organization has
+_	No policy for selecting or managing volunteers/interns
+_	No training program for volunteers or interns
+_	No job descriptions
+_	No performance standards or feedback process
+_	No supervisory guidance to support volunteers/interns'"
+"Human Resources Management			","To assess the organization__ ability to maintain a satisfied and skilled workforce, to manage operations and staff time and to implement quality programs.						",Volunteers and Interns,To review the organization__ systems for managing field and office volunteers and interns.,NACP,2,"The organization has
+_	A basic volunteer/intern policy that includes guidance on selection, supervision and support
+_	Job descriptions
+_	Orientation and/or training for volunteers that is not consistent
+_	No performance standards or regular review of performance
+_	Inconsistent or irregular supervision
+_	High volunteer turnover that affects program implementation"
+Financial Management,"To assess the quality of the organization__ financial system and policies and procedures and the staff__ knowledge of the system.						",Financial Systems,"To assess the existence and use of the financial system, especially its ability to respond to management needs and donor requirements.",RSSH,4,"The organization has
+_	A complete and appropriate financial system
+_	A fully operational, computerized accounting system
+_	Systems that are consistently adhered to, reviewed and updated
+_	Systems known and understood by trained staff
+_	A narrative description of its financial system in its financial manual"
+Financial Management,"To assess the quality of the organization__ financial system and policies and procedures and the staff__ knowledge of the system.						",Financial Systems,"To assess the existence and use of the financial system, especially its ability to respond to management needs and donor requirements.",NTLP,4,"The organization has
+_	A complete and appropriate financial system
+_	A fully operational, computerized accounting system
+_	Systems that are consistently adhered to, reviewed and updated
+_	Systems known and understood by trained staff
+_	A narrative description of its financial system in its financial manual"
+Financial Management,"To assess the quality of the organization__ financial system and policies and procedures and the staff__ knowledge of the system.						",Financial Systems,"To assess the existence and use of the financial system, especially its ability to respond to management needs and donor requirements.",NMCP,4,"The organization has
+_	A complete and appropriate financial system
+_	A fully operational, computerized accounting system
+_	Systems that are consistently adhered to, reviewed and updated
+_	Systems known and understood by trained staff
+_	A narrative description of its financial system in its financial manual"
+Financial Management,"To assess the quality of the organization__ financial system and policies and procedures and the staff__ knowledge of the system.						",Financial Systems,"To assess the existence and use of the financial system, especially its ability to respond to management needs and donor requirements.",NACP,4,"The organization has
+_	A complete and appropriate financial system
+_	A fully operational, computerized accounting system
+_	Systems that are consistently adhered to, reviewed and updated
+_	Systems known and understood by trained staff
+_	A narrative description of its financial system in its financial manual"
+Financial Management,"To assess the quality of the organization__ financial system and policies and procedures and the staff__ knowledge of the system.						",Financial Policies and Procedures,To assess the existence and use of financial policies and procedures and their ability to respond to management needs and donor requirements.,RSSH,4,"The organization has
+_	Complete and appropriate financial policies and procedures
+_	Policies and procedures that are known and understood by staff
+_	Policies and procedures that are consistently adhered to, reviewed and updated"
+Financial Management,"To assess the quality of the organization__ financial system and policies and procedures and the staff__ knowledge of the system.						",Financial Policies and Procedures,To assess the existence and use of financial policies and procedures and their ability to respond to management needs and donor requirements.,NTLP,4,"The organization has
+_	Complete and appropriate financial policies and procedures
+_	Policies and procedures that are known and understood by staff
+_	Policies and procedures that are consistently adhered to, reviewed and updated"
+Financial Management,"To assess the quality of the organization__ financial system and policies and procedures and the staff__ knowledge of the system.						",Financial Policies and Procedures,To assess the existence and use of financial policies and procedures and their ability to respond to management needs and donor requirements.,NMCP,4,"The organization has
+_	Complete and appropriate financial policies and procedures
+_	Policies and procedures that are known and understood by staff
+_	Policies and procedures that are consistently adhered to, reviewed and updated"
+Financial Management,"To assess the quality of the organization__ financial system and policies and procedures and the staff__ knowledge of the system.						",Financial Policies and Procedures,To assess the existence and use of financial policies and procedures and their ability to respond to management needs and donor requirements.,NACP,4,"The organization has
+_	Complete and appropriate financial policies and procedures
+_	Policies and procedures that are known and understood by staff
+_	Policies and procedures that are consistently adhered to, reviewed and updated"
+Financial Management,"To assess the quality of the organization__ financial system and policies and procedures and the staff__ knowledge of the system.						",Internal Controls,"To assess if internal controls adequately safeguard the organization__ assets, manage internal risk and ensure the accuracy and reliability of accounting data.",RSSH,4,"The organization has
+_	Complete and appropriately documented financial controls
+_	Procedures known and understood by trained staff
+_	Internal controls that are consistently adhered to, reviewed and updated
+_	A process for assessing financial risk"
+Financial Management,"To assess the quality of the organization__ financial system and policies and procedures and the staff__ knowledge of the system.						",Internal Controls,"To assess if internal controls adequately safeguard the organization__ assets, manage internal risk and ensure the accuracy and reliability of accounting data.",NTLP,4,"The organization has
+_	Complete and appropriately documented financial controls
+_	Procedures known and understood by trained staff
+_	Internal controls that are consistently adhered to, reviewed and updated
+_	A process for assessing financial risk"
+Financial Management,"To assess the quality of the organization__ financial system and policies and procedures and the staff__ knowledge of the system.						",Internal Controls,"To assess if internal controls adequately safeguard the organization__ assets, manage internal risk and ensure the accuracy and reliability of accounting data.",NMCP,4,"The organization has
+_	Complete and appropriately documented financial controls
+_	Procedures known and understood by trained staff
+_	Internal controls that are consistently adhered to, reviewed and updated
+_	A process for assessing financial risk"
+Financial Management,"To assess the quality of the organization__ financial system and policies and procedures and the staff__ knowledge of the system.						",Internal Controls,"To assess if internal controls adequately safeguard the organization__ assets, manage internal risk and ensure the accuracy and reliability of accounting data.",NACP,4,"The organization has
+_	Complete and appropriately documented financial controls
+_	Procedures known and understood by trained staff
+_	Internal controls that are consistently adhered to, reviewed and updated
+_	A process for assessing financial risk"
+Financial Management,"To assess the quality of the organization__ financial system and policies and procedures and the staff__ knowledge of the system.						",Financial Documentation,To assess if record keeping is adequate and if financial files are audit ready.,RSSH,4,"The organization has
+_	Complete and appropriate financial documentation procedures
+_	Procedures that are known and understood by staff
+_	Procedures that are consistently adhered to, reviewed and updated
+_	Up-to-date financial files in a secure location
+_	A staff member designated to manage the financial files"
+Financial Management,"To assess the quality of the organization__ financial system and policies and procedures and the staff__ knowledge of the system.						",Financial Documentation,To assess if record keeping is adequate and if financial files are audit ready.,NTLP,4,"The organization has
+_	Complete and appropriate financial documentation procedures
+_	Procedures that are known and understood by staff
+_	Procedures that are consistently adhered to, reviewed and updated
+_	Up-to-date financial files in a secure location
+_	A staff member designated to manage the financial files"
+Financial Management,"To assess the quality of the organization__ financial system and policies and procedures and the staff__ knowledge of the system.						",Financial Documentation,To assess if record keeping is adequate and if financial files are audit ready.,NMCP,4,"The organization has
+_	Complete and appropriate financial documentation procedures
+_	Procedures that are known and understood by staff
+_	Procedures that are consistently adhered to, reviewed and updated
+_	Up-to-date financial files in a secure location
+_	A staff member designated to manage the financial files"
+Financial Management,"To assess the quality of the organization__ financial system and policies and procedures and the staff__ knowledge of the system.						",Financial Documentation,To assess if record keeping is adequate and if financial files are audit ready.,NACP,4,"The organization has
+_	Complete and appropriate financial documentation procedures
+_	Procedures that are known and understood by staff
+_	Procedures that are consistently adhered to, reviewed and updated
+_	Up-to-date financial files in a secure location
+_	A staff member designated to manage the financial files"
+Financial Management,"To assess the quality of the organization__ financial system and policies and procedures and the staff__ knowledge of the system.						",Budgeting,To assess the organization__ financial planning and if there is a system for monitoring budgets and determining additional funding requirements.,RSSH,4,"The organization has
+_	A complete and appropriate master budget
+_	A core-cost budget that is aligned with the strategic plan and regularly reviewed; any shortfalls are addressed
+_	Clear project budgets that are reviewed regularly by senior management and adapted to align with project needs and donor requirements
+_	A consistent methodology for including core costs in project budgets that is documented and ensures full cost recovery"
+Financial Management,"To assess the quality of the organization__ financial system and policies and procedures and the staff__ knowledge of the system.						",Budgeting,To assess the organization__ financial planning and if there is a system for monitoring budgets and determining additional funding requirements.,NTLP,4,"The organization has
+_	A complete and appropriate master budget
+_	A core-cost budget that is aligned with the strategic plan and regularly reviewed; any shortfalls are addressed
+_	Clear project budgets that are reviewed regularly by senior management and adapted to align with project needs and donor requirements
+_	A consistent methodology for including core costs in project budgets that is documented and ensures full cost recovery"
+Financial Management,"To assess the quality of the organization__ financial system and policies and procedures and the staff__ knowledge of the system.						",Budgeting,To assess the organization__ financial planning and if there is a system for monitoring budgets and determining additional funding requirements.,NMCP,4,"The organization has
+_	A complete and appropriate master budget
+_	A core-cost budget that is aligned with the strategic plan and regularly reviewed; any shortfalls are addressed
+_	Clear project budgets that are reviewed regularly by senior management and adapted to align with project needs and donor requirements
+_	A consistent methodology for including core costs in project budgets that is documented and ensures full cost recovery"
+Financial Management,"To assess the quality of the organization__ financial system and policies and procedures and the staff__ knowledge of the system.						",Budgeting,To assess the organization__ financial planning and if there is a system for monitoring budgets and determining additional funding requirements.,NACP,4,"The organization has
+_	A complete and appropriate master budget
+_	A core-cost budget that is aligned with the strategic plan and regularly reviewed; any shortfalls are addressed
+_	Clear project budgets that are reviewed regularly by senior management and adapted to align with project needs and donor requirements
+_	A consistent methodology for including core costs in project budgets that is documented and ensures full cost recovery"
+Financial Management,"To assess the quality of the organization__ financial system and policies and procedures and the staff__ knowledge of the system.						",Financial Reporting,To assess whether the organization__ routine financial reporting system allows it to meet statutory and donor requirements and stakeholders_ needs for information.,RSSH,3,"The organization has
+_	A good financial reporting system; reporting requirements and deadlines are generally adhered to
+_	Regularly delivered financial reports to stakeholders (donors, budget holders, senior management, board members), but they are not always accurate and/or complete
+_	Sporadic reviews of financial reports by senior staff
+_	Some documented financial reporting procedures"
+Financial Management,"To assess the quality of the organization__ financial system and policies and procedures and the staff__ knowledge of the system.						",Financial Reporting,To assess whether the organization__ routine financial reporting system allows it to meet statutory and donor requirements and stakeholders_ needs for information.,NTLP,4,"The organization has
+_	A complete and appropriate financial reporting system; reporting requirements and deadlines are consistently adhered to
+_	Regularly delivered accurate and complete financial reports to stakeholders (donors, budget holders, senior management, board members)
+_	A system for senior staff to review financial reports at least every three months and to use the reports to make decisions
+_	Complete and appropriately documented financial reporting procedures regularly reviewed and updated"
+Financial Management,"To assess the quality of the organization__ financial system and policies and procedures and the staff__ knowledge of the system.						",Financial Reporting,To assess whether the organization__ routine financial reporting system allows it to meet statutory and donor requirements and stakeholders_ needs for information.,NMCP,4,"The organization has
+_	A complete and appropriate financial reporting system; reporting requirements and deadlines are consistently adhered to
+_	Regularly delivered accurate and complete financial reports to stakeholders (donors, budget holders, senior management, board members)
+_	A system for senior staff to review financial reports at least every three months and to use the reports to make decisions
+_	Complete and appropriately documented financial reporting procedures regularly reviewed and updated"
+Financial Management,"To assess the quality of the organization__ financial system and policies and procedures and the staff__ knowledge of the system.						",Financial Reporting,To assess whether the organization__ routine financial reporting system allows it to meet statutory and donor requirements and stakeholders_ needs for information.,NACP,4,"The organization has
+_	A complete and appropriate financial reporting system; reporting requirements and deadlines are consistently adhered to
+_	Regularly delivered accurate and complete financial reports to stakeholders (donors, budget holders, senior management, board members)
+_	A system for senior staff to review financial reports at least every three months and to use the reports to make decisions
+_	Complete and appropriately documented financial reporting procedures regularly reviewed and updated"
+Financial Management,"To assess the quality of the organization__ financial system and policies and procedures and the staff__ knowledge of the system.						",Audits,To assess whether the organization undergoes routine audits that meet statutory and donor requirements and has a system for addressing audit findings.,RSSH,3,"The organization has
+_	A good system for managing audits; audit findings and recommendations are generally addressed
+_	Consistently complied with its statutory and donor audit requirements in a timely manner
+_	No internal audit function that regularly assesses risk or reviews and updates financial management systems to reflect the changing environment
+_	Not shared audit reports with board members and other stakeholders"
+Financial Management,"To assess the quality of the organization__ financial system and policies and procedures and the staff__ knowledge of the system.						",Audits,To assess whether the organization undergoes routine audits that meet statutory and donor requirements and has a system for addressing audit findings.,NTLP,4,"The organization has
+_	A complete and appropriate system for managing audits; audit findings and recommendations are systematically addressed
+_	A written narrative of its audit systems in the finance manual
+_	Consistently complied with its statutory and donor audit requirements in a timely manner
+_	An internal audit function that assesses risk and updates financial management systems as needed
+_	Consistently shared audit reports with board members and other stakeholders"
+Financial Management,"To assess the quality of the organization__ financial system and policies and procedures and the staff__ knowledge of the system.						",Audits,To assess whether the organization undergoes routine audits that meet statutory and donor requirements and has a system for addressing audit findings.,NMCP,4,"The organization has
+_	A complete and appropriate system for managing audits; audit findings and recommendations are systematically addressed
+_	A written narrative of its audit systems in the finance manual
+_	Consistently complied with its statutory and donor audit requirements in a timely manner
+_	An internal audit function that assesses risk and updates financial management systems as needed
+_	Consistently shared audit reports with board members and other stakeholders"
+Financial Management,"To assess the quality of the organization__ financial system and policies and procedures and the staff__ knowledge of the system.						",Audits,To assess whether the organization undergoes routine audits that meet statutory and donor requirements and has a system for addressing audit findings.,NACP,4,"The organization has
+_	A complete and appropriate system for managing audits; audit findings and recommendations are systematically addressed
+_	A written narrative of its audit systems in the finance manual
+_	Consistently complied with its statutory and donor audit requirements in a timely manner
+_	An internal audit function that assesses risk and updates financial management systems as needed
+_	Consistently shared audit reports with board members and other stakeholders"
+Financial Management,"To assess the quality of the organization__ financial system and policies and procedures and the staff__ knowledge of the system.						",Cost Share,"To assess whether the organization has systems to track, report, and document cost share in compliance with donor regulations.",RSSH,4,"The organization has
+_	Complete and appropriately documented cost-share procedures
+_	Procedures known and understood by staff
+_	Procedures consistently adhered to, reviewed and updated
+_	A consistent accounting system for entering and reporting on cost share
+_	A cost-share plan"
+Financial Management,"To assess the quality of the organization__ financial system and policies and procedures and the staff__ knowledge of the system.						",Cost Share,"To assess whether the organization has systems to track, report, and document cost share in compliance with donor regulations.",NACP,4,"The organization has
+_	Complete and appropriately documented cost-share procedures
+_	Procedures known and understood by staff
+_	Procedures consistently adhered to, reviewed and updated
+_	A consistent accounting system for entering and reporting on cost share
+_	A cost-share plan"
+Financial Management,"To assess the quality of the organization__ financial system and policies and procedures and the staff__ knowledge of the system.						",Financial Sustainability,"To assess the organization__ finance strategy and its ability to secure a diversified revenue base, to generate reserves and to sustain its operations without donor funds.",RSSH,1,"The organization has
+_	Full dependence on one external donor
+_	No unrestricted funds
+_	Not enough liquidity to pay all outstanding financial obligations
+_	No documented finance strategy"
+Financial Management,"To assess the quality of the organization__ financial system and policies and procedures and the staff__ knowledge of the system.						",Financial Sustainability,"To assess the organization__ finance strategy and its ability to secure a diversified revenue base, to generate reserves and to sustain its operations without donor funds.",NTLP,2,"The organization has
+_	Almost full dependence on external donor funds (more than one donor)
+_	Limited unrestricted funds
+_	Not enough liquidity to pay all outstanding financial obligations
+_	A finance strategy that is not fully documented"
+Financial Management,"To assess the quality of the organization__ financial system and policies and procedures and the staff__ knowledge of the system.						",Financial Sustainability,"To assess the organization__ finance strategy and its ability to secure a diversified revenue base, to generate reserves and to sustain its operations without donor funds.",NMCP,3,"The organization has
+_	A somewhat diversified funding base, but is too reliant on restricted income
+_	Limited reserves to operate without donor grants
+_	Enough liquidity to pay all outstanding financial obligations
+_	A documented finance strategy that is not fully in line with the strategic plan and is not reviewed regularly"
+Financial Management,"To assess the quality of the organization__ financial system and policies and procedures and the staff__ knowledge of the system.						",Financial Sustainability,"To assess the organization__ finance strategy and its ability to secure a diversified revenue base, to generate reserves and to sustain its operations without donor funds.",NACP,2,"The organization has
+_	Almost full dependence on external donor funds (more than one donor)
+_	Limited unrestricted funds
+_	Not enough liquidity to pay all outstanding financial obligations
+_	A finance strategy that is not fully documented"
+Organizational Management,"To assess the organization__ planning, management of external relations and information and means of identifying and capitalizing on new opportunities						",Strategic Planning,To assess the organization__ ability to realize its mission and goals by reviewing its strategic plan.,RSSH,4,"The organization has
+_	A comprehensive, written strategic plan that reflects its mission, vision and values
+_	Based the plan on a review of strengths and weaknesses, the external environment and clients_ needs
+_	Included priorities and measurable objectives
+_	Referred to the plan for management decisions and operational planning
+_	Regularly reviewed the plan
+_	Clear resource needs and a corresponding budget"
+Organizational Management,"To assess the organization__ planning, management of external relations and information and means of identifying and capitalizing on new opportunities						",Strategic Planning,To assess the organization__ ability to realize its mission and goals by reviewing its strategic plan.,NTLP,4,"The organization has
+_	A comprehensive, written strategic plan that reflects its mission, vision and values
+_	Based the plan on a review of strengths and weaknesses, the external environment and clients_ needs
+_	Included priorities and measurable objectives
+_	Referred to the plan for management decisions and operational planning
+_	Regularly reviewed the plan
+_	Clear resource needs and a corresponding budget"
+Organizational Management,"To assess the organization__ planning, management of external relations and information and means of identifying and capitalizing on new opportunities						",Strategic Planning,To assess the organization__ ability to realize its mission and goals by reviewing its strategic plan.,NMCP,4,"The organization has
+_	A comprehensive, written strategic plan that reflects its mission, vision and values
+_	Based the plan on a review of strengths and weaknesses, the external environment and clients_ needs
+_	Included priorities and measurable objectives
+_	Referred to the plan for management decisions and operational planning
+_	Regularly reviewed the plan
+_	Clear resource needs and a corresponding budget"
+Organizational Management,"To assess the organization__ planning, management of external relations and information and means of identifying and capitalizing on new opportunities						",Strategic Planning,To assess the organization__ ability to realize its mission and goals by reviewing its strategic plan.,NACP,3,"The organization has
+_	A comprehensive, written strategic plan that reflects its mission, vision and values
+_	Based the plan on a review of strengths and weaknesses, the external environment and clients_ needs
+_	Included priorities, measurable objectives and clear strategies
+_	Not used the plan for management decisions or operational planning
+_	No process for regular reviews
+_	Not defined resource needs or does not have a corresponding budget"
+Organizational Management,"To assess the organization__ planning, management of external relations and information and means of identifying and capitalizing on new opportunities						",Resource Mobilization,To assess the organization__ ability to identify and capitalize on new business opportunities through grants and partnerships.,RSSH,2,"The organization has
+_	A business plan and has taken preliminary steps to estimate future resource needs based on an analysis of its programs and/or its strategic plan
+_	Identified additional resource providers or opportunities and their interests and potential for support
+_	Not created a communication strategy to attract resources"
+Organizational Management,"To assess the organization__ planning, management of external relations and information and means of identifying and capitalizing on new opportunities						",Resource Mobilization,To assess the organization__ ability to identify and capitalize on new business opportunities through grants and partnerships.,NTLP,2,"The organization has
+_	A business plan and has taken preliminary steps to estimate future resource needs based on an analysis of its programs and/or its strategic plan
+_	Identified additional resource providers or opportunities and their interests and potential for support
+_	Not created a communication strategy to attract resources"
+Organizational Management,"To assess the organization__ planning, management of external relations and information and means of identifying and capitalizing on new opportunities						",Resource Mobilization,To assess the organization__ ability to identify and capitalize on new business opportunities through grants and partnerships.,NMCP,3,"The organization has
+_	A business plan based on an analysis of its programs and resource needs and the activities in its strategic plan
+_	Identified resource providers
+_	Created a communication strategy for resource mobilization
+_	Received support from at least one source or has a clear plan for fundraising or proposal writing
+_	Insufficient funds to support its activities"
+Organizational Management,"To assess the organization__ planning, management of external relations and information and means of identifying and capitalizing on new opportunities						",Resource Mobilization,To assess the organization__ ability to identify and capitalize on new business opportunities through grants and partnerships.,NACP,3,"The organization has
+_	A business plan based on an analysis of its programs and resource needs and the activities in its strategic plan
+_	Identified resource providers
+_	Created a communication strategy for resource mobilization
+_	Received support from at least one source or has a clear plan for fundraising or proposal writing
+_	Insufficient funds to support its activities"
+Organizational Management,"To assess the organization__ planning, management of external relations and information and means of identifying and capitalizing on new opportunities						",Operational Plan Development,"To assess the contents, approval and reviews of the annual operational plan.",RSSH,4,"The organization has
+_	An annual operational plan
+_	Included goals, measurable objectives, strategies, timelines, responsibilities and indicators
+_	Linked the plan to program/project workplans and budget
+_	Developed the plan with staff participation
+_	Set dates for quarterly reviews
+_	Submitted the plan on time to HQ or donors (if required)"
+Organizational Management,"To assess the organization__ planning, management of external relations and information and means of identifying and capitalizing on new opportunities						",Operational Plan Development,"To assess the contents, approval and reviews of the annual operational plan.",NTLP,4,"The organization has
+_	An annual operational plan
+_	Included goals, measurable objectives, strategies, timelines, responsibilities and indicators
+_	Linked the plan to program/project workplans and budget
+_	Developed the plan with staff participation
+_	Set dates for quarterly reviews
+_	Submitted the plan on time to HQ or donors (if required)"
+Organizational Management,"To assess the organization__ planning, management of external relations and information and means of identifying and capitalizing on new opportunities						",Operational Plan Development,"To assess the contents, approval and reviews of the annual operational plan.",NMCP,4,"The organization has
+_	An annual operational plan
+_	Included goals, measurable objectives, strategies, timelines, responsibilities and indicators
+_	Linked the plan to program/project workplans and budget
+_	Developed the plan with staff participation
+_	Set dates for quarterly reviews
+_	Submitted the plan on time to HQ or donors (if required)"
+Organizational Management,"To assess the organization__ planning, management of external relations and information and means of identifying and capitalizing on new opportunities						",Operational Plan Development,"To assess the contents, approval and reviews of the annual operational plan.",NACP,4,"The organization has
+_	An annual operational plan
+_	Included goals, measurable objectives, strategies, timelines, responsibilities and indicators
+_	Linked the plan to program/project workplans and budget
+_	Developed the plan with staff participation
+_	Set dates for quarterly reviews
+_	Submitted the plan on time to HQ or donors (if required)"
+Organizational Management,"To assess the organization__ planning, management of external relations and information and means of identifying and capitalizing on new opportunities						",Communication Strategy,"To assess the comprehensive, completeness and effectiveness of the organization__ communication strategy.",RSSH,1,"The organization has
+_	No strategy for identifying audiences, channels, materials, and dissemination for promotion of technical/best practice innovation and overall achievements
+_	No one assigned responsibility for developing/overseeing communication strategy and products (written, oral and/or online)
+_	No process/tools for testing the materials/messages
+_	No branding/marking policies or procedures for documents or equipment"
+Organizational Management,"To assess the organization__ planning, management of external relations and information and means of identifying and capitalizing on new opportunities						",Communication Strategy,"To assess the comprehensive, completeness and effectiveness of the organization__ communication strategy.",NTLP,4,"The organization has
+_	A comprehensive communication strategy
+_	Tasked staff member(s) with communication strategy management, including documentation development and oversight
+_	A process for testing and revising materials/messages based on test results
+_	Developed its own branding policy (including appropriate USAID branding/marking requirements), oriented staff, and instituted a system to monitor compliance
+_	Created templates and a style guide and trained staff on their use"
+Organizational Management,"To assess the organization__ planning, management of external relations and information and means of identifying and capitalizing on new opportunities						",Communication Strategy,"To assess the comprehensive, completeness and effectiveness of the organization__ communication strategy.",NMCP,3,"The organization has
+_	A complete communication strategy,
+_	Tasked staff member(s) with communication strategy management including documentation oversight
+_	A process for testing materials/messages and revising based on test results
+_	Developed its own branding policy (including appropriate USAID branding/marking requirements) and oriented staff, but it is inconsistently adhered to
+_	Created templates for documents and a style guide"
+Organizational Management,"To assess the organization__ planning, management of external relations and information and means of identifying and capitalizing on new opportunities						",Communication Strategy,"To assess the comprehensive, completeness and effectiveness of the organization__ communication strategy.",NACP,3,"The organization has
+_	A complete communication strategy,
+_	Tasked staff member(s) with communication strategy management including documentation oversight
+_	A process for testing materials/messages and revising based on test results
+_	Developed its own branding policy (including appropriate USAID branding/marking requirements) and oriented staff, but it is inconsistently adhered to
+_	Created templates for documents and a style guide"
+Organizational Management,"To assess the organization__ planning, management of external relations and information and means of identifying and capitalizing on new opportunities						",Change Management,"To assess the organization__ sustainability and relevance by reviewing its systems and processes for responding to internal or external emerging situations, reviewing programs and analyzing needs.",RSSH,2,"The organization has
+_	Basic processes for reviewing internal changes, such as policy reviews or the funding environment
+_	No process for planning for or responding to external changes, such as regular reviews of the operational plan and budget monitoring
+_	Inconsistently involved staff in reviewing the effectiveness of new/revised management systems and policies
+_	Significant delays or problems encountered in response to change"
+Organizational Management,"To assess the organization__ planning, management of external relations and information and means of identifying and capitalizing on new opportunities						",Change Management,"To assess the organization__ sustainability and relevance by reviewing its systems and processes for responding to internal or external emerging situations, reviewing programs and analyzing needs.",NTLP,2,"The organization has
+_	Basic processes for reviewing internal changes, such as policy reviews or the funding environment
+_	No process for planning for or responding to external changes, such as regular reviews of the operational plan and budget monitoring
+_	Inconsistently involved staff in reviewing the effectiveness of new/revised management systems and policies
+_	Significant delays or problems encountered in response to change"
+Organizational Management,"To assess the organization__ planning, management of external relations and information and means of identifying and capitalizing on new opportunities						",Change Management,"To assess the organization__ sustainability and relevance by reviewing its systems and processes for responding to internal or external emerging situations, reviewing programs and analyzing needs.",NMCP,3,"The organization has
+_	Established processes for reviewing internal change
+_	Processes for planning for and responding to external change
+_	Consistently involved staff in reviewing the effectiveness of new/revised management systems and policies, processes, programs
+_	Few delays or major problems encountered in response to change"
+Organizational Management,"To assess the organization__ planning, management of external relations and information and means of identifying and capitalizing on new opportunities						",Change Management,"To assess the organization__ sustainability and relevance by reviewing its systems and processes for responding to internal or external emerging situations, reviewing programs and analyzing needs.",NACP,2,"The organization has
+_	Basic processes for reviewing internal changes, such as policy reviews or the funding environment
+_	No process for planning for or responding to external changes, such as regular reviews of the operational plan and budget monitoring
+_	Inconsistently involved staff in reviewing the effectiveness of new/revised management systems and policies
+_	Significant delays or problems encountered in response to change"
+Organizational Management,"To assess the organization__ planning, management of external relations and information and means of identifying and capitalizing on new opportunities						",Knowledge Management,"To assess the organization__ ability to link with other organizations (government, national, international, community, technical, academic) and its system for sharing knowledge, experiences, technical expertise and best practices with staff.",RSSH,3,"The organization has
+_	Essential and appropriate links with other organizations to share best practices or program experiences
+_	A process for routine staff sharing of best practices and lessons learned
+_	Not applied new knowledge or best practices to ongoing programs or shared them with stakeholders
+_	Has no process for reviewing/integrating new/current knowledge and best practices in annual planning"
+Organizational Management,"To assess the organization__ planning, management of external relations and information and means of identifying and capitalizing on new opportunities						",Knowledge Management,"To assess the organization__ ability to link with other organizations (government, national, international, community, technical, academic) and its system for sharing knowledge, experiences, technical expertise and best practices with staff.",NTLP,3,"The organization has
+_	Essential and appropriate links with other organizations to share best practices or program experiences
+_	A process for routine staff sharing of best practices and lessons learned
+_	Not applied new knowledge or best practices to ongoing programs or shared them with stakeholders
+_	Has no process for reviewing/integrating new/current knowledge and best practices in annual planning"
+Organizational Management,"To assess the organization__ planning, management of external relations and information and means of identifying and capitalizing on new opportunities						",Knowledge Management,"To assess the organization__ ability to link with other organizations (government, national, international, community, technical, academic) and its system for sharing knowledge, experiences, technical expertise and best practices with staff.",NMCP,4,"The organization has
+_	Active links with appropriate organizations to share best practices or program experiences
+_	A process for routinely sharing technical expertise and experiences with staff and stakeholders
+_	Applied best practices to its program and shares information with stakeholders and appropriate staff
+_	Annual planning that includes reviews and integration of new/current knowledge and best practices"
+Organizational Management,"To assess the organization__ planning, management of external relations and information and means of identifying and capitalizing on new opportunities						",Knowledge Management,"To assess the organization__ ability to link with other organizations (government, national, international, community, technical, academic) and its system for sharing knowledge, experiences, technical expertise and best practices with staff.",NACP,3,"The organization has
+_	Essential and appropriate links with other organizations to share best practices or program experiences
+_	A process for routine staff sharing of best practices and lessons learned
+_	Not applied new knowledge or best practices to ongoing programs or shared them with stakeholders
+_	Has no process for reviewing/integrating new/current knowledge and best practices in annual planning"
+Organizational Management,"To assess the organization__ planning, management of external relations and information and means of identifying and capitalizing on new opportunities						",Stakeholder Involvement,To assess the organization__ ability to coordinate programs and to involve stakeholders.,RSSH,4,"The organization has
+_	Complete and up-to-date information about all stakeholders working in the  same geographic and technical areas and, if appropriate, collaborative agreements  with them
+_	Regular (at least annually) meetings with stakeholders to review relevant activities and their impact on the organization__ area of operations"
+Organizational Management,"To assess the organization__ planning, management of external relations and information and means of identifying and capitalizing on new opportunities						",Stakeholder Involvement,To assess the organization__ ability to coordinate programs and to involve stakeholders.,NTLP,4,"The organization has
+_	Complete and up-to-date information about all stakeholders working in the  same geographic and technical areas and, if appropriate, collaborative agreements  with them
+_	Regular (at least annually) meetings with stakeholders to review relevant activities and their impact on the organization__ area of operations"
+Organizational Management,"To assess the organization__ planning, management of external relations and information and means of identifying and capitalizing on new opportunities						",Stakeholder Involvement,To assess the organization__ ability to coordinate programs and to involve stakeholders.,NMCP,4,"The organization has
+_	Complete and up-to-date information about all stakeholders working in the  same geographic and technical areas and, if appropriate, collaborative agreements  with them
+_	Regular (at least annually) meetings with stakeholders to review relevant activities and their impact on the organization__ area of operations"
+Organizational Management,"To assess the organization__ planning, management of external relations and information and means of identifying and capitalizing on new opportunities						",Stakeholder Involvement,To assess the organization__ ability to coordinate programs and to involve stakeholders.,NACP,4,"The organization has
+_	Complete and up-to-date information about all stakeholders working in the  same geographic and technical areas and, if appropriate, collaborative agreements  with them
+_	Regular (at least annually) meetings with stakeholders to review relevant activities and their impact on the organization__ area of operations"
+Organizational Management,"To assess the organization__ planning, management of external relations and information and means of identifying and capitalizing on new opportunities						",Internal Communication,To review the organization__ approach to internal communication.,RSSH,4,"The organization has
+_	Open communication between and among management and staff
+_	Regular opportunities for exchanging ideas or discussing management, program or technical issues
+_	Consistently encouraged and incorporated staff ideas and input
+_	Staff who feel comfortable initiating discussions, contributing ideas and raising issues"
+Organizational Management,"To assess the organization__ planning, management of external relations and information and means of identifying and capitalizing on new opportunities						",Internal Communication,To review the organization__ approach to internal communication.,NTLP,4,"The organization has
+_	Open communication between and among management and staff
+_	Regular opportunities for exchanging ideas or discussing management, program or technical issues
+_	Consistently encouraged and incorporated staff ideas and input
+_	Staff who feel comfortable initiating discussions, contributing ideas and raising issues"
+Organizational Management,"To assess the organization__ planning, management of external relations and information and means of identifying and capitalizing on new opportunities						",Internal Communication,To review the organization__ approach to internal communication.,NMCP,4,"The organization has
+_	Open communication between and among management and staff
+_	Regular opportunities for exchanging ideas or discussing management, program or technical issues
+_	Consistently encouraged and incorporated staff ideas and input
+_	Staff who feel comfortable initiating discussions, contributing ideas and raising issues"
+Organizational Management,"To assess the organization__ planning, management of external relations and information and means of identifying and capitalizing on new opportunities						",Internal Communication,To review the organization__ approach to internal communication.,NACP,3,"The organization has
+_	Open communication between and among management and staff
+_	Regular opportunities for discussing management, program or technical areas
+_	Encouraged staff ideas and input
+_	Staff who are comfortable raising issues but find it more difficult to raise challenging ones"
+Organizational Management,"To assess the organization__ planning, management of external relations and information and means of identifying and capitalizing on new opportunities						",Decision-Making,"To assess how the organization makes decisions, who is involved, and how decisions are communicated.",RSSH,3,"The organization has
+_	Encouraged staff ideas but seldom incorporated them into decisions
+_	Communicated and explained decisions to staff
+_	Not fully included staff participation in making decisions"
+Organizational Management,"To assess the organization__ planning, management of external relations and information and means of identifying and capitalizing on new opportunities						",Decision-Making,"To assess how the organization makes decisions, who is involved, and how decisions are communicated.",NTLP,4,"The organization has
+_	Sought, respected and incorporated staff ideas into decision-making
+_	Communicated and explained decisions to staff
+_	Staff who feel a sense of responsibility, accountability and ownership of decision- making"
+Organizational Management,"To assess the organization__ planning, management of external relations and information and means of identifying and capitalizing on new opportunities						",Decision-Making,"To assess how the organization makes decisions, who is involved, and how decisions are communicated.",NMCP,4,"The organization has
+_	Sought, respected and incorporated staff ideas into decision-making
+_	Communicated and explained decisions to staff
+_	Staff who feel a sense of responsibility, accountability and ownership of decision- making"
+Organizational Management,"To assess the organization__ planning, management of external relations and information and means of identifying and capitalizing on new opportunities						",Decision-Making,"To assess how the organization makes decisions, who is involved, and how decisions are communicated.",NACP,3,"The organization has
+_	Encouraged staff ideas but seldom incorporated them into decisions
+_	Communicated and explained decisions to staff
+_	Not fully included staff participation in making decisions"
+Program Management,"To assess the organization__ ability to implement comprehensive programs that respond to local needs and priorities by reviewing compliance with donor requirements, management of sub-grants with partners, technical reporting and whether its comprehensive health services meet the needs of specific target populations.						",Donor Compliance,To assess the organization__ capability to respond to USG OR OTHER donor requirements; thereby ensuring the effective implementation of its USG-funded programs.,RSSH,3,"The organization
+_	Is knowledgeable of the terms of the cooperative agreement, A-122 Cost Principles and Standard Provisions
+_	Has systems in place to ensure compliance with donor requirements
+_	Does not comply consistently"
+Program Management,"To assess the organization__ ability to implement comprehensive programs that respond to local needs and priorities by reviewing compliance with donor requirements, management of sub-grants with partners, technical reporting and whether its comprehensive health services meet the needs of specific target populations.						",Donor Compliance,To assess the organization__ capability to respond to USG OR OTHER donor requirements; thereby ensuring the effective implementation of its USG-funded programs.,NTLP,4,"The organization
+_	Is knowledgeable of the terms of the cooperative agreement, A-122 Cost Principles, and Standard Provisions
+_	Has systems in place to ensure compliance with donor requirements
+_	Complies consistently"
+Program Management,"To assess the organization__ ability to implement comprehensive programs that respond to local needs and priorities by reviewing compliance with donor requirements, management of sub-grants with partners, technical reporting and whether its comprehensive health services meet the needs of specific target populations.						",Donor Compliance,To assess the organization__ capability to respond to USG OR OTHER donor requirements; thereby ensuring the effective implementation of its USG-funded programs.,NMCP,4,"The organization
+_	Is knowledgeable of the terms of the cooperative agreement, A-122 Cost Principles, and Standard Provisions
+_	Has systems in place to ensure compliance with donor requirements
+_	Complies consistently"
+Program Management,"To assess the organization__ ability to implement comprehensive programs that respond to local needs and priorities by reviewing compliance with donor requirements, management of sub-grants with partners, technical reporting and whether its comprehensive health services meet the needs of specific target populations.						",Donor Compliance,To assess the organization__ capability to respond to USG OR OTHER donor requirements; thereby ensuring the effective implementation of its USG-funded programs.,NACP,4,"The organization
+_	Is knowledgeable of the terms of the cooperative agreement, A-122 Cost Principles, and Standard Provisions
+_	Has systems in place to ensure compliance with donor requirements
+_	Complies consistently"
+Program Management,"To assess the organization__ ability to implement comprehensive programs that respond to local needs and priorities by reviewing compliance with donor requirements, management of sub-grants with partners, technical reporting and whether its comprehensive health services meet the needs of specific target populations.						",Sub-grant Management,"To assess the organization__ ability to subcontract with other organizations, and monitor technical implementation and financial management of sub-grants.",RSSH,4,"The organization has
+_	Complete and appropriate sub-grant management policies and procedures
+_	Formal sub-grants with all partners, and they are oriented on their responsibilities
+_	Sub-grantees who submit all required reports in a timely manner
+_	Solid policies and guidance for providing regularly scheduled supervision and support
+_	Regular supervisory visits to assess inventory and financial records and implementation; feedback is shared with partners and used for follow up visits"
+Program Management,"To assess the organization__ ability to implement comprehensive programs that respond to local needs and priorities by reviewing compliance with donor requirements, management of sub-grants with partners, technical reporting and whether its comprehensive health services meet the needs of specific target populations.						",Sub-grant Management,"To assess the organization__ ability to subcontract with other organizations, and monitor technical implementation and financial management of sub-grants.",NMCP,4,"The organization has
+_	Complete and appropriate sub-grant management policies and procedures
+_	Formal sub-grants with all partners, and they are oriented on their responsibilities
+_	Sub-grantees who submit all required reports in a timely manner
+_	Solid policies and guidance for providing regularly scheduled supervision and support
+_	Regular supervisory visits to assess inventory and financial records and implementation; feedback is shared with partners and used for follow up visits"
+Program Management,"To assess the organization__ ability to implement comprehensive programs that respond to local needs and priorities by reviewing compliance with donor requirements, management of sub-grants with partners, technical reporting and whether its comprehensive health services meet the needs of specific target populations.						",Sub-grant Management,"To assess the organization__ ability to subcontract with other organizations, and monitor technical implementation and financial management of sub-grants.",NACP,3,"The organization has
+_	Most or all documented and compliant sub-grant management policies and procedures
+_	Formal sub-grants with all partners; some sub-grantees are oriented on their responsibilities
+_	Sub-grantees who do not consistently submit financial and technical reports
+_	Policies and guidance for supervising and supporting sub-grantees, but not all staff are aware of or utilize the guidance
+_	Conducted infrequent supervisory visits"
+Program Management,"To assess the organization__ ability to implement comprehensive programs that respond to local needs and priorities by reviewing compliance with donor requirements, management of sub-grants with partners, technical reporting and whether its comprehensive health services meet the needs of specific target populations.						",Technical Reporting,"To review the organization__ ability to document technical activities and results for donors, program planning and program development.",RSSH,4,"The organization
+_	Documents both quantitative and qualitative workplan progress, and reviews objectives and strategies, facilitating factors and barriers
+_	Documents lessons learned and best practices
+_	Reports on donor, government and other program indicators
+_	Uses information to review/revise strategies with staff and stakeholders"
+Program Management,"To assess the organization__ ability to implement comprehensive programs that respond to local needs and priorities by reviewing compliance with donor requirements, management of sub-grants with partners, technical reporting and whether its comprehensive health services meet the needs of specific target populations.						",Technical Reporting,"To review the organization__ ability to document technical activities and results for donors, program planning and program development.",NTLP,3,"The organization
+_	Documents both qualitative and quantitative workplan progress and reviews objectives and strategies, facilitating factors and barriers
+_	Documents lessons learned and best practices
+_	Reports on donor, government or other program indicators
+_	Does not use information to review/revise strategies with staff and stakeholders"
+Program Management,"To assess the organization__ ability to implement comprehensive programs that respond to local needs and priorities by reviewing compliance with donor requirements, management of sub-grants with partners, technical reporting and whether its comprehensive health services meet the needs of specific target populations.						",Technical Reporting,"To review the organization__ ability to document technical activities and results for donors, program planning and program development.",NMCP,3,"The organization
+_	Documents both qualitative and quantitative workplan progress and reviews objectives and strategies, facilitating factors and barriers
+_	Documents lessons learned and best practices
+_	Reports on donor, government or other program indicators
+_	Does not use information to review/revise strategies with staff and stakeholders"
+Program Management,"To assess the organization__ ability to implement comprehensive programs that respond to local needs and priorities by reviewing compliance with donor requirements, management of sub-grants with partners, technical reporting and whether its comprehensive health services meet the needs of specific target populations.						",Technical Reporting,"To review the organization__ ability to document technical activities and results for donors, program planning and program development.",NACP,4,"The organization
+_	Documents both quantitative and qualitative workplan progress, and reviews objectives and strategies, facilitating factors and barriers
+_	Documents lessons learned and best practices
+_	Reports on donor, government and other program indicators
+_	Uses information to review/revise strategies with staff and stakeholders"
+Program Management,"To assess the organization__ ability to implement comprehensive programs that respond to local needs and priorities by reviewing compliance with donor requirements, management of sub-grants with partners, technical reporting and whether its comprehensive health services meet the needs of specific target populations.						",Referral,"To assess the organization__ systems and processes for directing clients to other providers, ensuring those providers offer quality services and monitoring clients_ access to services.",NTLP,4,"The organization has
+_	A clear referral process system and strong linkages with government, private or NGO health or social service providers to ensure that clients requiring HIV and AIDS treatment or other health or support services have access to them
+_	A process for following up clients and monitoring quality of care
+_	Clients who are consistently referred to appropriate locations and who do not encounter problems at referral sites"
+Program Management,"To assess the organization__ ability to implement comprehensive programs that respond to local needs and priorities by reviewing compliance with donor requirements, management of sub-grants with partners, technical reporting and whether its comprehensive health services meet the needs of specific target populations.						",Referral,"To assess the organization__ systems and processes for directing clients to other providers, ensuring those providers offer quality services and monitoring clients_ access to services.",NMCP,4,"The organization has
+_	A clear referral process system and strong linkages with government, private or NGO health or social service providers to ensure that clients requiring HIV and AIDS treatment or other health or support services have access to them
+_	A process for following up clients and monitoring quality of care
+_	Clients who are consistently referred to appropriate locations and who do not encounter problems at referral sites"
+Program Management,"To assess the organization__ ability to implement comprehensive programs that respond to local needs and priorities by reviewing compliance with donor requirements, management of sub-grants with partners, technical reporting and whether its comprehensive health services meet the needs of specific target populations.						",Referral,"To assess the organization__ systems and processes for directing clients to other providers, ensuring those providers offer quality services and monitoring clients_ access to services.",NACP,4,"The organization has
+_	A clear referral process system and strong linkages with government, private or NGO health or social service providers to ensure that clients requiring HIV and AIDS treatment or other health or support services have access to them
+_	A process for following up clients and monitoring quality of care
+_	Clients who are consistently referred to appropriate locations and who do not encounter problems at referral sites"
+Program Management,"To assess the organization__ ability to implement comprehensive programs that respond to local needs and priorities by reviewing compliance with donor requirements, management of sub-grants with partners, technical reporting and whether its comprehensive health services meet the needs of specific target populations.						",Community Involvement,To ensure the organization__ programs respond to and address community needs by reviewing how they involve community members in planning and decision-making.,RSSH,1,"The organization
+_	Orients communities on its programs, but does not actively include them
+_	Does not involve affected families and communities in planning and decision-making"
+Program Management,"To assess the organization__ ability to implement comprehensive programs that respond to local needs and priorities by reviewing compliance with donor requirements, management of sub-grants with partners, technical reporting and whether its comprehensive health services meet the needs of specific target populations.						",Community Involvement,To ensure the organization__ programs respond to and address community needs by reviewing how they involve community members in planning and decision-making.,NTLP,4,"The organization
+_	Orients communities and leaders on its program and actively engages them in activities and service provision
+_	Involves affected families and communities in planning and decision- making and consistently integrates their views into program design and revision"
+Program Management,"To assess the organization__ ability to implement comprehensive programs that respond to local needs and priorities by reviewing compliance with donor requirements, management of sub-grants with partners, technical reporting and whether its comprehensive health services meet the needs of specific target populations.						",Community Involvement,To ensure the organization__ programs respond to and address community needs by reviewing how they involve community members in planning and decision-making.,NMCP,4,"The organization
+_	Orients communities and leaders on its program and actively engages them in activities and service provision
+_	Involves affected families and communities in planning and decision- making and consistently integrates their views into program design and revision"
+Program Management,"To assess the organization__ ability to implement comprehensive programs that respond to local needs and priorities by reviewing compliance with donor requirements, management of sub-grants with partners, technical reporting and whether its comprehensive health services meet the needs of specific target populations.						",Community Involvement,To ensure the organization__ programs respond to and address community needs by reviewing how they involve community members in planning and decision-making.,NACP,3,"The organization
+_	Orients communities and leaders on its program and actively engages them in the activities
+_	Involves affected families and communities in planning and decision- making and sometimes integrates their ideas into program design and revision"
+Program Management,"To assess the organization__ ability to implement comprehensive programs that respond to local needs and priorities by reviewing compliance with donor requirements, management of sub-grants with partners, technical reporting and whether its comprehensive health services meet the needs of specific target populations.						",Culture and Gender,To evaluate the organization__ systems for assessing culture and gender issues among the populations it serves and for integrating cultural and gender concerns into its programs.,RSSH,3,"The organization does
+_	Consider local cultural or gender concerns in its programming
+_	Have tools for assessing cultural and gender issues
+_	Have guidelines for culturally relevant and gender based approaches and programming
+_	Not train staff on how to use the tools or findings"
+Program Management,"To assess the organization__ ability to implement comprehensive programs that respond to local needs and priorities by reviewing compliance with donor requirements, management of sub-grants with partners, technical reporting and whether its comprehensive health services meet the needs of specific target populations.						",Culture and Gender,To evaluate the organization__ systems for assessing culture and gender issues among the populations it serves and for integrating cultural and gender concerns into its programs.,NTLP,3,"The organization does
+_	Consider local cultural or gender concerns in its programming
+_	Have tools for assessing cultural and gender issues
+_	Have guidelines for culturally relevant and gender based approaches and programming
+_	Not train staff on how to use the tools or findings"
+Program Management,"To assess the organization__ ability to implement comprehensive programs that respond to local needs and priorities by reviewing compliance with donor requirements, management of sub-grants with partners, technical reporting and whether its comprehensive health services meet the needs of specific target populations.						",Culture and Gender,To evaluate the organization__ systems for assessing culture and gender issues among the populations it serves and for integrating cultural and gender concerns into its programs.,NMCP,3,"The organization does
+_	Consider local cultural or gender concerns in its programming
+_	Have tools for assessing cultural and gender issues
+_	Have guidelines for culturally relevant and gender based approaches and programming
+_	Not train staff on how to use the tools or findings"
+Program Management,"To assess the organization__ ability to implement comprehensive programs that respond to local needs and priorities by reviewing compliance with donor requirements, management of sub-grants with partners, technical reporting and whether its comprehensive health services meet the needs of specific target populations.						",Culture and Gender,To evaluate the organization__ systems for assessing culture and gender issues among the populations it serves and for integrating cultural and gender concerns into its programs.,NACP,4,"The organization does
+_	Consider local culture or gender concerns in its programming
+_	View culture and gender as integral to program success
+_	Have tools for assessing cultural and gender issues
+_	Have guidelines for culturally relevant and gender-based approaches and programming
+_	Train staff on the tools, interpreting findings and incorporating elements of culture and gender in program design"
+Program Performance Management,"To assess the organization__ systems for overseeing field activities, for setting standards and monitoring actual performance against them and for setting indicators and monitoring progress toward achieving outcomes.						",Field Oversight Activities,To assess the organization__ systems for overseeing field activities.,RSSH,4,"The organization
+_	Has documented and comprehensive field oversight policies and procedures
+_	Approves workplans and provides feedback
+_	Reviews data and progress reports and provides feedback
+_	Monitors compliance with program and donor requirements
+_	Reviews and approves field-level HR and finance manuals
+_	Provides technical and administrative guidance
+_	Makes at least semi-annual supervisory visits, and results are discussed with management and technical staff"
+Program Performance Management,"To assess the organization__ systems for overseeing field activities, for setting standards and monitoring actual performance against them and for setting indicators and monitoring progress toward achieving outcomes.						",Field Oversight Activities,To assess the organization__ systems for overseeing field activities.,NTLP,4,"The organization
+_	Has documented and comprehensive field oversight policies and procedures
+_	Approves workplans and provides feedback
+_	Reviews data and progress reports and provides feedback
+_	Monitors compliance with program and donor requirements
+_	Reviews and approves field-level HR and finance manuals
+_	Provides technical and administrative guidance
+_	Makes at least semi-annual supervisory visits, and results are discussed with management and technical staff"
+Program Performance Management,"To assess the organization__ systems for overseeing field activities, for setting standards and monitoring actual performance against them and for setting indicators and monitoring progress toward achieving outcomes.						",Field Oversight Activities,To assess the organization__ systems for overseeing field activities.,NMCP,4,"The organization
+_	Has documented and comprehensive field oversight policies and procedures
+_	Approves workplans and provides feedback
+_	Reviews data and progress reports and provides feedback
+_	Monitors compliance with program and donor requirements
+_	Reviews and approves field-level HR and finance manuals
+_	Provides technical and administrative guidance
+_	Makes at least semi-annual supervisory visits, and results are discussed with management and technical staff"
+Program Performance Management,"To assess the organization__ systems for overseeing field activities, for setting standards and monitoring actual performance against them and for setting indicators and monitoring progress toward achieving outcomes.						",Field Oversight Activities,To assess the organization__ systems for overseeing field activities.,NACP,3,"The organization
+_	Has most or all documented oversight policies and procedures
+_	Approves annual workplans on a regular basis
+_	Monitors compliance with program and donor requirements
+_	Reviews and approves field-level HR and finance manuals
+_	Reviews quarterly project M&E data and progress reports
+_	Provides technical and administrative guidance
+_	Makes irregular supervision visits"
+Program Performance Management,"To assess the organization__ systems for overseeing field activities, for setting standards and monitoring actual performance against them and for setting indicators and monitoring progress toward achieving outcomes.						",Standards,To assess the organization__ application of recognized standards in service delivery.,NTLP,4,"The organization has
+_	Solid standards for service delivery
+_	Made staff aware of the standards and has trained staff to apply them
+_	A process for monitoring adherence to standards that is consistently adhered to
+_	A process for improving adherence to standards"
+Program Performance Management,"To assess the organization__ systems for overseeing field activities, for setting standards and monitoring actual performance against them and for setting indicators and monitoring progress toward achieving outcomes.						",Standards,To assess the organization__ application of recognized standards in service delivery.,NMCP,3,"The organization has
+_	A good system for using standards for service delivery
+_	Made staff aware of the standards
+_	Appropriately trained staff to apply and monitor the standards
+_	A process for monitoring standards, but it is not applied comprehensively"
+Program Performance Management,"To assess the organization__ systems for overseeing field activities, for setting standards and monitoring actual performance against them and for setting indicators and monitoring progress toward achieving outcomes.						",Standards,To assess the organization__ application of recognized standards in service delivery.,NACP,4,"The organization has
+_	Solid standards for service delivery
+_	Made staff aware of the standards and has trained staff to apply them
+_	A process for monitoring adherence to standards that is consistently adhered to
+_	A process for improving adherence to standards"
+Program Performance Management,"To assess the organization__ systems for overseeing field activities, for setting standards and monitoring actual performance against them and for setting indicators and monitoring progress toward achieving outcomes.						",Quality Assurance,To assess the organization__ ability to identify and address gaps in meeting performance standards.,RSSH,4,"The organization has
+_	Performance expectations and a system that assesses performance against standards
+_	Taken client satisfaction into consideration
+_	Analyzed gaps or weaknesses to identify root causes
+_	Identified a plan to address root causes
+_	An improvement plan to address gaps or weaknesses
+_	Studied and incorporated the results into the program"
+Program Performance Management,"To assess the organization__ systems for overseeing field activities, for setting standards and monitoring actual performance against them and for setting indicators and monitoring progress toward achieving outcomes.						",Quality Assurance,To assess the organization__ ability to identify and address gaps in meeting performance standards.,NTLP,4,"The organization has
+_	Performance expectations and a system that assesses performance against standards
+_	Taken client satisfaction into consideration
+_	Analyzed gaps or weaknesses to identify root causes
+_	Identified a plan to address root causes
+_	An improvement plan to address gaps or weaknesses
+_	Studied and incorporated the results into the program"
+Program Performance Management,"To assess the organization__ systems for overseeing field activities, for setting standards and monitoring actual performance against them and for setting indicators and monitoring progress toward achieving outcomes.						",Quality Assurance,To assess the organization__ ability to identify and address gaps in meeting performance standards.,NMCP,4,"The organization has
+_	Performance expectations and a system that assesses performance against standards
+_	Taken client satisfaction into consideration
+_	Analyzed gaps or weaknesses to identify root causes
+_	Identified a plan to address root causes
+_	An improvement plan to address gaps or weaknesses
+_	Studied and incorporated the results into the program"
+Program Performance Management,"To assess the organization__ systems for overseeing field activities, for setting standards and monitoring actual performance against them and for setting indicators and monitoring progress toward achieving outcomes.						",Quality Assurance,To assess the organization__ ability to identify and address gaps in meeting performance standards.,NACP,3,"The organization has
+_	Performance expectations and a process that assesses performance against standards
+_	Taken client satisfaction into consideration
+_	Included an analysis of gaps or weaknesses
+_	Not developed an improvement plan"
+Program Performance Management,"To assess the organization__ systems for overseeing field activities, for setting standards and monitoring actual performance against them and for setting indicators and monitoring progress toward achieving outcomes.						",Supervision,To assess the organization__ systems for supportive review of and feedback on staff performance and program activities.,RSSH,4,"The organization has
+_	A detailed supervision plan with a supportive approach
+_	Detailed supervisory responsibilities that are followed
+_	Trained supervisors and provided them with tools
+_	A mechanism for carrying out visits according to the timeline
+_	A process for documenting and discussing findings with staff and management
+_	A process for following up and addressing issues"
+Program Performance Management,"To assess the organization__ systems for overseeing field activities, for setting standards and monitoring actual performance against them and for setting indicators and monitoring progress toward achieving outcomes.						",Supervision,To assess the organization__ systems for supportive review of and feedback on staff performance and program activities.,NTLP,4,"The organization has
+_	A detailed supervision plan with a supportive approach
+_	Detailed supervisory responsibilities that are followed
+_	Trained supervisors and provided them with tools
+_	A mechanism for carrying out visits according to the timeline
+_	A process for documenting and discussing findings with staff and management
+_	A process for following up and addressing issues"
+Program Performance Management,"To assess the organization__ systems for overseeing field activities, for setting standards and monitoring actual performance against them and for setting indicators and monitoring progress toward achieving outcomes.						",Supervision,To assess the organization__ systems for supportive review of and feedback on staff performance and program activities.,NMCP,4,"The organization has
+_	A detailed supervision plan with a supportive approach
+_	Detailed supervisory responsibilities that are followed
+_	Trained supervisors and provided them with tools
+_	A mechanism for carrying out visits according to the timeline
+_	A process for documenting and discussing findings with staff and management
+_	A process for following up and addressing issues"
+Program Performance Management,"To assess the organization__ systems for overseeing field activities, for setting standards and monitoring actual performance against them and for setting indicators and monitoring progress toward achieving outcomes.						",Supervision,To assess the organization__ systems for supportive review of and feedback on staff performance and program activities.,NACP,3,"The organization has:
+_	A clear supervision plan with a supportive approach
+_	Detailed supervisory responsibilities that are followed
+_	Trained supervisors and provided them with tools
+_	Logistical and program barriers to providing regular supervision
+_	No process for documenting or discussing findings with staff and management"
+Program Performance Management,"To assess the organization__ systems for overseeing field activities, for setting standards and monitoring actual performance against them and for setting indicators and monitoring progress toward achieving outcomes.						",Monitoring and Evaluation (M&E),"To assess how the organization collects and uses data to plan, monitor and evaluate its programs.",RSSH,4,"The organization has
+_	A well-defined M&E plan
+_	Process and outcome indicators
+_	A process for using data for follow-up monitoring, program adjustments, planning and determining progress towards achieving targets
+_	A process for data quality review
+_	A strategy for reporting on progress against targets and involving staff and data collectors in reviewing and using findings
+_	A strategy for regularly sharing information with stakeholders, including the community"
+Program Performance Management,"To assess the organization__ systems for overseeing field activities, for setting standards and monitoring actual performance against them and for setting indicators and monitoring progress toward achieving outcomes.						",Monitoring and Evaluation (M&E),"To assess how the organization collects and uses data to plan, monitor and evaluate its programs.",NTLP,4,"The organization has
+_	A well-defined M&E plan
+_	Process and outcome indicators
+_	A process for using data for follow-up monitoring, program adjustments, planning and determining progress towards achieving targets
+_	A process for data quality review
+_	A strategy for reporting on progress against targets and involving staff and data collectors in reviewing and using findings
+_	A strategy for regularly sharing information with stakeholders, including the community"
+Program Performance Management,"To assess the organization__ systems for overseeing field activities, for setting standards and monitoring actual performance against them and for setting indicators and monitoring progress toward achieving outcomes.						",Monitoring and Evaluation (M&E),"To assess how the organization collects and uses data to plan, monitor and evaluate its programs.",NMCP,4,"The organization has
+_	A well-defined M&E plan
+_	Process and outcome indicators
+_	A process for using data for follow-up monitoring, program adjustments, planning and determining progress towards achieving targets
+_	A process for data quality review
+_	A strategy for reporting on progress against targets and involving staff and data collectors in reviewing and using findings
+_	A strategy for regularly sharing information with stakeholders, including the community"
+Program Performance Management,"To assess the organization__ systems for overseeing field activities, for setting standards and monitoring actual performance against them and for setting indicators and monitoring progress toward achieving outcomes.						",Monitoring and Evaluation (M&E),"To assess how the organization collects and uses data to plan, monitor and evaluate its programs.",NACP,3,"The organization has
+_	A well-defined M&E plan
+_	Process and outcome indicators
+_	Trained staff to collect data, and data collection is consistently done
+_	A process for consistently using data/findings for follow-up monitoring, support or planning and reporting against targets
+_	No process for sharing results with field and stakeholders"
