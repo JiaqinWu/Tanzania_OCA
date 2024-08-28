@@ -11,7 +11,7 @@ make_sidebar()
 # Import the dataset
 image = "CGHPI.png"
 df = pd.read_csv('Final_dataset1.csv',encoding='utf-8')
-df['Statement'] = df['Statement'].str.replace('_\t', '•')
+df['Statement'] = df['Statement'].str.replace('_\t', '• ')
 
 # Streamlit application
 def app():
