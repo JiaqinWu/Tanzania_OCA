@@ -122,6 +122,11 @@ def app():
     st.markdown(f"##### Guiding Questions:")
     fil_df = df1[df1['Sub Section'] == part_selected1][['Subsection Checklist', 'Yes','No','N/A','Comments/Quality Notes']].reset_index().drop(columns='index')
     st.markdown(render_html_table(fil_df), unsafe_allow_html=True)
+    # First, check if all values in the "Other" column are NaN for the selected "Sub Section"
+    if df1[df1["Sub Section"] == part_selected1].Other.isna().sum() == df1[df1["Sub Section"] == part_selected1].shape[0]:
+        st.markdown('')  # All values are NaN, so display nothing
+    else:
+        st.markdown(f'{df1[df1["Sub Section"] == part_selected1].reset_index().Other[0]}')  # Display the first non-NaN value
 
 if __name__ == "__main__":
     app()
